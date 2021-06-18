@@ -3,9 +3,9 @@ import StoryCard from "./StoryCard"
 
 const stories = [
     {
-        name:"Sonny Sangha",
-        src:"https://links.papareact.com/zof",
-        profile:"https://links.papareact.com/l4v"
+        name:"Vaibhav Bansal",
+        src:"https://lh3.googleusercontent.com/ogw/ADea4I4ZXDWgS7wyBNe-eXeIZQY5exiJyIJ9lEsgmBtxIw=s32-c-mo",
+        profile:"https://lh3.googleusercontent.com/ogw/ADea4I4ZXDWgS7wyBNe-eXeIZQY5exiJyIJ9lEsgmBtxIw=s32-c-mo"
     },
     {
         name:"Elon Musk",
